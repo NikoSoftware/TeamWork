@@ -145,7 +145,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-jdbc</artifactId>
-      <version>4.3.1.RELEASE</version>
+      <version>4.3.18.RELEASE</version>
     </dependency>
 
     <dependency>
@@ -157,36 +157,36 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-test</artifactId>
-      <version>4.3.1.RELEASE</version>
+      <version>4.3.18.RELEASE</version>
     </dependency>
     <!--spring-->
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-beans</artifactId>
-      <version>4.3.1.RELEASE</version>
+      <version>4.3.18.RELEASE</version>
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-core</artifactId>
-      <version>4.3.1.RELEASE</version>
+      <version>4.3.18.RELEASE</version>
     </dependency>
 
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-context</artifactId>
-      <version>4.3.1.RELEASE</version>
+      <version>4.3.18.RELEASE</version>
     </dependency>
 
     <!--Spring Web + Spring MVC-->
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-web</artifactId>
-      <version>4.3.1.RELEASE</version>
+      <version>4.3.18.RELEASE</version>
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-webmvc</artifactId>
-      <version>4.3.1.RELEASE</version>
+      <version>4.3.18.RELEASE</version>
     </dependency>
 
 
@@ -252,7 +252,7 @@
     <dependency>
       <groupId>com.alibaba</groupId>
       <artifactId>fastjson</artifactId>
-      <version>1.2.12</version>
+      <version>1.2.31</version>
     </dependency>
     <!-- 引入gson依赖 -->
     <dependency>
